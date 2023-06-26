@@ -14,9 +14,7 @@ one more line
 song text
 text song
 one more line
-------------------
 
-<<<<<<< HEAD
 ------------------
 ------------------
 
@@ -26,6 +24,4 @@ song text
 text song
 one more line
 ------------------
-
-=======
->>>>>>> features
+tag
